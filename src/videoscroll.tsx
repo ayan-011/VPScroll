@@ -49,7 +49,7 @@ function Videoscroll() {
   
   <>
  
- <div className='bg-red-900' ref={containerRef} style={{ height: '6000px', position: 'relative' }}>
+ <div className='' ref={containerRef} style={{ height: '6000px', position: 'relative' }}>
   <div
     style={{
       position: 'sticky',
